@@ -1,0 +1,23 @@
+{
+  "name": "stitches-simple-css-reset",
+  "version": "0.0.1",
+  "author": "Alexandre Peltier (@reitlepax)",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "lib/esm/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reitlepax/stitches-simple-css-reset"
+  },
+  "scripts": {
+    "build": "tsc && tsc -p tsconfig.esm.json",
+    "prebuild": "rm -rf lib && mkdir -p lib"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
