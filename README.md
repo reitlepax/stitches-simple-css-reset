@@ -1,6 +1,6 @@
 # stitches-simple-css-reset
 
-Josh Comeaus's [Reset CSS](https://www.joshwcomeau.com/css/custom-css-reset/) for [stitches](https://github.com/modulz/stitches).
+Josh Comeaus's [CSS RESET](https://www.joshwcomeau.com/css/custom-css-reset/) for [stitches](https://github.com/modulz/stitches).
 
 ## Installation:
 
